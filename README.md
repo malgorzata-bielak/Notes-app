@@ -1,6 +1,6 @@
 # Notes-app
 
-Store all of your notes in one place.
+Notes-app is an application for notes management.
 
 ## Installation
 
